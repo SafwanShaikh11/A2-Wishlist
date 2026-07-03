@@ -17,3 +17,9 @@ A front-end web application demonstrating client-side data management with Local
 - JavaScript
 - Jest
   
+Automated unit tests have been implemented using Jest to validate the application's core functionality.
+
+Run all tests using:
+
+```bash
+npm test
